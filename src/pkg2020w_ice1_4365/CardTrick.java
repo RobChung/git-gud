@@ -1,4 +1,4 @@
-package ca.sheridancollege.week3.softwarefundamentals.ice1;
+package pkg2020w_ice1_4365;
 
 /**
  * A class that fills a magic hand of 7 cards with random Card Objects and then asks the user to pick a card and

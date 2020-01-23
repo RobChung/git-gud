@@ -1,4 +1,4 @@
-package ca.sheridancollege.week3.softwarefundamentals.ice1;
+package pkg2020w_ice1_4365;
 
 /**
  * A class that models playing card Objects. Cards have 
