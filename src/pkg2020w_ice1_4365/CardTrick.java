@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @modifier AMRITPREET KAUR
  * @modifier Nidhi
  * Student id - 991563808
- * 
+ * I am nidhi this is nidhi's idddddd
  * Student Id:-991551280
  */
 public class CardTrick {
