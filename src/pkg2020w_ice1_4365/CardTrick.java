@@ -41,6 +41,7 @@ card.setValue(10);
 card.setSuit(Card.SUITS[2]);
 
 // Practicing GitHub tings
+// JOs smells
         
 boolean found=false;
 for(Card magicCard:magicHand)
