@@ -6,8 +6,8 @@ import java.util.Scanner;
  *
  * @author dancye
  * @author Paul Bonenfant
- * @modifier AMRITPREET KAUR
- * @modifier Nidhi
+ * @modifier AMRITPREET KAUR who dis 2
+ * @modifier Nidhi who dis
  * Student id - 991563808
  * I am nidhi this is nidhi's idddddd
  * Student Id:-991551280
