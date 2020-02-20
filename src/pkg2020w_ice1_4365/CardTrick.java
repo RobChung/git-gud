@@ -6,8 +6,8 @@ import java.util.Scanner;
  *
  * @author dancye
  * @author Paul Bonenfant
- * @modifier AMRITPREET KAUR who dis 2
- * @modifier Nidhi who dis
+ * @modifier AMRITPREET KAUR who dis
+ * @modifier Nidhi who dat
  * Student id - 991563808
  * I am nidhi this is nidhi's idddddd
  * Student Id:-991551280
@@ -40,7 +40,8 @@ Card luckynumber=new Card();
 card.setValue(10);
 card.setSuit(Card.SUITS[2]);
 
-
+// Practicing GitHub tings
+        
 boolean found=false;
 for(Card magicCard:magicHand)
 {if(magicCard.getValue()==card.getValue() && magicCard.getSuit().equals(card.getSuit()))
